@@ -2,9 +2,9 @@ Hi !
 
 我是行動應用工程師，主要專注於 Android 與 Flutter 應用開發。
 
-2017 年開始 Android 原生開發
-2022 年開始深入 Flutter 跨平台開發
-2026 年開始研究 CI/CD 於 Android 開發流程的整合與最佳實踐
+- 2017 年開始 Android 原生開發
+- 2022 年開始深入 Flutter 跨平台開發
+- 2026 年開始研究 CI/CD 於 Android 開發流程的整合與最佳實踐
 
 研究筆記、專案實作與踩坑心得持續更新於 GitHub，
 歡迎任何 feedback、討論或合作！🚀
